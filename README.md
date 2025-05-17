@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Stellar and I'm a Developer (maybe)</p>
+<p align="left">My name is L and I'm a Developer (maybe)</p>
 
 ###
 
